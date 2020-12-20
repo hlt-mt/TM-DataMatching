@@ -13,7 +13,7 @@ The tool is accessible by an API. More details about the API specifications are 
 
 The Docker image of the code is available [here](https://drive.google.com/file/d/1CIYSDx-Nb0GpYKKB-WIPEnEiXa5v9nfb/view?usp=sharing) (around 230 MB)
 
-No specific hardware or software is required (only the optional "email" functionality requires an email sending service running on the host)
+No specific hardware or software is required in addition to a working "docker" installation (only the optional "email" functionality requires an email sending service running on the host)
 
 Once the Docker image has been downloaded, it has to be added to your docker environment
 ```bash
